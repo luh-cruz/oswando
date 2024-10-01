@@ -1,6 +1,16 @@
-body { 
+body {
     background-color: #ff8be0;
-background-image: linear-gradient(90deg, #ff8be0 0%, #e36aff 55%, #ffffff 100%);
+    background-image: linear-gradient(90deg, #ff8be0 0%, #e36aff 55%, #ffffff 100%);
 
 
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
 }
